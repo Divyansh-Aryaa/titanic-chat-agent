@@ -42,11 +42,11 @@ https://www.kaggle.com/competitions/titanic/data?select=train.csv
 
 # Example Questions
 
- "What percentage of passengers were male on the Titanic?"
- "Show me a histogram of passenger ages"
- "What was the average ticket fare?"
- "How many passengers embarked from each port?"
- "What was gender count on Titanic?"
- "What was overall survival rate ?"
- "How much was survival by gender ?"
+ - "What percentage of passengers were male on the Titanic?"
+ - "Show me a histogram of passenger ages"
+ - "What was the average ticket fare?"
+ - "How many passengers embarked from each port?"
+ - "What was gender count on Titanic?"
+ - "What was overall survival rate ?"
+ - "How much was survival by gender ?"
 
