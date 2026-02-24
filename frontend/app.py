@@ -14,7 +14,7 @@ if user_input:
 
     st.session_state.messages.append(("user", user_input))
     response = requests.post(
-        "https://titanic-backend.onrender.com/ask",
+        "https://titanic-chat-agent-xi4i.onrender.com/ask",
         json={"question": user_input}
     )
 
