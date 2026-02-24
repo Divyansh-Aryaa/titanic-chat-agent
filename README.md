@@ -31,3 +31,7 @@ uvicorn main:app --reload
 ## Run Frontend
 
 streamlit run app.py
+
+## Live Demo
+
+https://titanic-chat-agent-web.streamlit.app/
